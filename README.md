@@ -4,11 +4,10 @@ Info:
 This project contains a search function that returns the top 10 related articles using data from 2004. Some relevant searches may not appear due to the age. 
 
 
-
-
 ICS 438 Final Project
 Refs:
 https://www.youtube.com/watch?v=6QCHz2fD8d8 
+https://www.youtube.com/watch?v=D2V1okCEsiE
 https://www.geeksforgeeks.org/machine-learning/understanding-tf-idf-term-frequency-inverse-document-frequency/
 https://www.kaggle.com/code/funxexcel/c9-cosine-similarity 
 https://thepythoncode.com/article/calculate-rouge-score-in-python
